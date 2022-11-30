@@ -1,2 +1,0 @@
-H:\vc++project\201907037project\Debug\201907037project.exe
-H:\vc++project\201907037project\Debug\201907037project.pdb
